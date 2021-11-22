@@ -2,6 +2,8 @@ bind "kp_enter" "+shop"
 
 
 
+
+
 alias equip1				"buy buy vest; buy smokegrenade; buy defuser; buy vesthelm; buy molotov; buy incgrenade; buy hegrenade; buy flashbang; buy taser"
 alias equip2				"buy smokegrenade; buy molotov; buy incgrenade; buy hegrenade; buy flashbang"
 
@@ -15,13 +17,13 @@ alias riffle1				"buy m4a1; buy ak47"
 alias riffle2				"buy famas; buy galilar"
 
 alias smg1					"buy p90"
-alias smg2 					"buy mp7"
+alias smg2 					"buy mp9; mac10"
 
 alias sniper1				"buy awp"
 alias sniper2				"buy ssg08"
 
 alias pump1					"buy xm1014"
-alias pump2					"buy nova"
+alias pump2					"buy mag7; buy sawedoff"
 
 alias pistole1				"buy deagle"
 alias pistole2				"buy p250"
@@ -29,8 +31,18 @@ alias pistole2				"buy p250"
 alias mg1					"buy m249"
 alias mg2					"buy negev"
 
+alias molo					"buy molotov; buy incgrenade"
+
+alias smoke 				"buy smokegrenade"
+
+alias flash					"buy flashbang"
+
+alias he 					"buy hegrenade"
 
 
-alias +shop "bind kp_ins equip1;	bind kp_end riffle1;		bind kp_downarrow smg1;		bind kp_pgdn sniper1;	bind kp_leftarrow pump1;	bind kp_rightarrow pistole1; 	bind kp_5 mg1;		bind kp_home eco1;		bind kp_uparrow armor1"
 
-alias -shop "bind kp_ins equip2;	bind kp_end riffle2;		bind kp_downarrow smg2;		bind kp_pgdn sniper2;	bind kp_leftarrow pump2;	bind kp_rightarrow pistole2; 	bind kp_5 mg2;		bind kp_home eco2;		bind kp_uparrow armor2"
+
+
+alias +shop 		"bind kp_ins equip1;	bind kp_end riffle1;		bind kp_downarrow smg1;		bind kp_pgdn sniper1;	bind kp_leftarrow pump1;	bind kp_rightarrow pistole1; 	bind kp_5 mg1;		bind kp_home eco1;		bind kp_uparrow armor1;		bind y molo;	bind x smoke;		bind c flash;		bind v he"
+
+alias -shop 		"bind kp_ins equip2;	bind kp_end riffle2;		bind kp_downarrow smg2;		bind kp_pgdn sniper2;	bind kp_leftarrow pump2;	bind kp_rightarrow pistole2; 	bind kp_5 mg2;		bind kp_home eco2;		bind kp_uparrow armor2;		bind y slot10;	bind x slot8;		bind c slot7;		bind v slot6"
