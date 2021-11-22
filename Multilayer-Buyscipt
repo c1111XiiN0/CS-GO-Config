@@ -4,40 +4,40 @@ bind "kp_enter" "+shop"
 
 
 
-alias equip1				"buy buy vest; buy smokegrenade; buy defuser; buy vesthelm; buy molotov; buy incgrenade; buy hegrenade; buy flashbang; buy taser"
-alias equip2				"buy smokegrenade; buy molotov; buy incgrenade; buy hegrenade; buy flashbang"
+alias equip1				  "buy buy vest; buy smokegrenade; buy defuser; buy vesthelm; buy molotov; buy incgrenade; buy hegrenade; buy flashbang; buy taser"
+alias equip2				  "buy smokegrenade; buy molotov; buy incgrenade; buy hegrenade; buy flashbang"
 
-alias armor1				"buy vesthelm"
-alias armor2				"buy vest"
+alias armor1				  "buy vesthelm"
+alias armor2				  "buy vest"
 
-alias eco1					"buy smokegrenade; buy defuser; buy flashbang"
-alias eco2					"buy smokegrenade"
+alias eco1					  "buy smokegrenade; buy defuser; buy flashbang"
+alias eco2					  "buy smokegrenade"
 
-alias riffle1				"buy m4a1; buy ak47"
-alias riffle2				"buy famas; buy galilar"
+alias riffle1				  "buy m4a1; buy ak47"
+alias riffle2				  "buy famas; buy galilar"
 
-alias smg1					"buy p90"
-alias smg2 					"buy mp9; mac10"
+alias smg1					  "buy p90"
+alias smg2 					  "buy mp9; mac10"
 
-alias sniper1				"buy awp"
-alias sniper2				"buy ssg08"
+alias sniper1				  "buy awp"
+alias sniper2				  "buy ssg08"
 
-alias pump1					"buy xm1014"
-alias pump2					"buy mag7; buy sawedoff"
+alias pump1					  "buy xm1014"
+alias pump2					  "buy mag7; buy sawedoff"
 
 alias pistole1				"buy deagle"
 alias pistole2				"buy p250"
 
-alias mg1					"buy m249"
-alias mg2					"buy negev"
+alias mg1					    "buy m249"
+alias mg2					    "buy negev"
 
-alias molo					"buy molotov; buy incgrenade"
+alias molo					  "buy molotov; buy incgrenade"
 
-alias smoke 				"buy smokegrenade"
+alias smoke 				  "buy smokegrenade"
 
-alias flash					"buy flashbang"
+alias flash					  "buy flashbang"
 
-alias he 					"buy hegrenade"
+alias he 					    "buy hegrenade"
 
 
 
